@@ -22,7 +22,6 @@ class CheckboxAgeConfirmation extends React.Component {
   };
 
   render() {
-    // console.log(this.state.isConfirmed);
     return (
       <>
         <h1>Kup bilet na horror roku!</h1>
